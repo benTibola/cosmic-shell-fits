@@ -8,6 +8,7 @@
 | `table_cosmic_shell_fit_body.tex` | LaTeX source for Table 1 in the manuscript. |
 | `forecast_cosmic_shell.py` | Forecasts BAO significance to *z* ≈ 6 (DESI‑final + SKA). |
 | `forecast_shell_offsets.{csv,png}` | CSV + figure from the forecast script. |
+| `tau_sweep.{csv,png}` | χ²/dof as a function of shell half‑life |
 
 ### Quick reproduce
 
