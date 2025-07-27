@@ -1,0 +1,6 @@
+Metric,Value,Take‑away
+Pantheon χ²,1166.1,Residual sum over 1 701 SNe
+Degrees of freedom,1700.0,N_SN – 1
+χ² / dof,0.686,<1 ⇒ fits within quoted errors
+DESI BAO offset (σ),-1.75,Consistent at −1.75 σ
+Shell half‑life (Gyr),100.0,Assumed for this run
